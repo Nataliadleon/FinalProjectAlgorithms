@@ -1,0 +1,17 @@
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\bin\Debug\net8.0-windows\ProyectoFinal_Algoritmos.exe
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\bin\Debug\net8.0-windows\ProyectoFinal_Algoritmos.deps.json
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\bin\Debug\net8.0-windows\ProyectoFinal_Algoritmos.runtimeconfig.json
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\bin\Debug\net8.0-windows\ProyectoFinal_Algoritmos.dll
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\bin\Debug\net8.0-windows\ProyectoFinal_Algoritmos.pdb
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.MainForm.resources
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.csproj.GenerateResource.cache
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.AssemblyInfoInputs.cache
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.AssemblyInfo.cs
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.sourcelink.json
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.dll
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\refint\ProyectoFinal_Algoritmos.dll
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.pdb
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ProyectoFinal_Algoritmos.genruntimeconfig.cache
+C:\Users\gd251\Source\Repos\ProyectoFinal_Algoritmos\ProyectoFinal_Algoritmos\obj\Debug\net8.0-windows\ref\ProyectoFinal_Algoritmos.dll
